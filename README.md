@@ -1,4 +1,4 @@
-## Install Deps step from UAT
+## Install Deps step QA2
 ```
 npm install
 ```
