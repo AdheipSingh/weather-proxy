@@ -1,4 +1,4 @@
-## Install Deps
+## Install Deps step 
 ```
 npm install
 ```
